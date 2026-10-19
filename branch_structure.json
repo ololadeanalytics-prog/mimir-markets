@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-415-perf-api-read-claim-ranges-through-get-claims",
+    "fix/issue-399-test-api-cover-reconcilesettlements-fee",
+    "fix/issue-407-docs-ui-translate-spanish-comments-in-explore",
+    "fix/issue-421-refactor-agents-split-the-market-creator-worker",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-415-perf-api-read-claim-ranges-through-get-claims": "main",
+    "fix/issue-399-test-api-cover-reconcilesettlements-fee": "main",
+    "fix/issue-407-docs-ui-translate-spanish-comments-in-explore": "main",
+    "fix/issue-421-refactor-agents-split-the-market-creator-worker": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-415-perf-api-read-claim-ranges-through-get-claims",
+    "fix/issue-399-test-api-cover-reconcilesettlements-fee",
+    "fix/issue-407-docs-ui-translate-spanish-comments-in-explore",
+    "fix/issue-421-refactor-agents-split-the-market-creator-worker",
+    "origin"
+  ]
+}
